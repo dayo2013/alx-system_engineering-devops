@@ -4,3 +4,4 @@ File : 2-bring_me_home - script that changes the working directory to the userâ€
 File : 3-listfiles - script that Display current directory contents in a long format
 File : 9-firstdirdeletion - script that delete directory
 File : 10-back script that changes the working directory to the previous one.
+File : 11-lists script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
