@@ -3,3 +3,4 @@ File : 1-listit - script that display the contents list of your current director
 File : 2-bring_me_home - script that changes the working directory to the user’s home directory
 File : 3-listfiles - script that Display current directory contents in a long format
 File : 9-firstdirdeletion - script that delete directory
+File : 10-back script that changes the working directory to the previous one.
