@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 700
+chmod ugo+x hello
+
