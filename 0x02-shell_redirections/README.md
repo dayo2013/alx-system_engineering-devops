@@ -12,4 +12,5 @@ File: 9-duplicate_last_line script that duplicates the last line of the file iac
 File: 10-no_more_js  script that deletes all the regular files (not the directories) with a .js
 File: 11-directories  script that counts the number of directories and sub-directories in the current directory.
 File: 12-newest_files script that displays the 10 newest files in the current directory.
-File: 13-unique  script that takes a list of words as input and prints only words that appear exactly once.  
+File: 13-unique  script that takes a list of words as input and prints only words that appear exactly once.
+File: 14-findthatword Display lines containing the pattern “root” from the file /etc/passwd  
