@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# This script is displaying best 10 school using the for loop
-
-for _ in {1..10}
+# This script is displaying "best School" 10 times
+for i in $(seq 1 1 10)
 do
     echo "best School"
+    i=$(( i + 1 ))
 done
